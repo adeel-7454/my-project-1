@@ -133,3 +133,43 @@ html,
             }
         }
 
+
+#############################New text Added In File for Branch Feature1########################
+
+
+        @media (max-width: 1024px) {
+            .main-container{
+                padding-top: 1%;
+            }
+            .cloud-image {
+                padding-bottom: 30px;
+            }
+            .next-steps-container {
+                padding-top: 30px;
+            }
+            .next-steps-header {
+                padding-bottom: 20px;
+            }
+            .success-text {
+                font-size: 50px;
+                line-height: 61px;
+                padding-bottom: 10px;
+            }
+            .description {
+                font-size: 26px;
+                line-height: 30px;
+            }
+
+            .step {
+                font-size: 12px;
+                line-height: 18px;
+            }
+            .tweet-container {
+                top: 80px;
+            }
+            .content{
+                max-width: 630px;
+                min-width: 630px;
+            }
+        }
+
